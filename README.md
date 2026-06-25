@@ -1,5 +1,5 @@
 # About Me:
-✌️I'm Sorcie<br>🥸I'm currently a Student in computer science<br>📚I learned Python, Java, Javascript<br>📗I'm learning how to use different Framework and API<br>🌐
+✌️I'm Sorcie<br>🥸I'm currently a Student in computer science<br>📚I learned Python, Java, Javascript<br>📗I'm learning how to use different Framework and API<br>
 
 
 ## 🌐 Socials:
