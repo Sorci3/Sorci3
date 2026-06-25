@@ -11,6 +11,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sorci3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![sorcie profile views](https://u8views.com/api/v1/github/profiles/90621501/views/day-week-month-total-count.svg)](https://u8views.com/github/Sorci3)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
